@@ -1,1 +1,1 @@
-# its just an example file ,nothing important here
+# It's just an example, nothing important.
